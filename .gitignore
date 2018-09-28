@@ -1,13 +1,16 @@
-data/
-datasets/
-environment/
-plots/
-simulated_plots/
+.DS_Store
+
+.idea/
+*.npy
+*.pyc
 
 .RData
 .Rhistory
 .Rproj.user
 *.swp
 *.pyc
+*.png
+*.pdf
+*.eps
 
 *.lrg.npy
